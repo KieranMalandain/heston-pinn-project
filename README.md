@@ -19,3 +19,4 @@ Our methodology is heavily inspired by the state-of-the-art approach detailed in
 
 > Hainaut, D., & Casas, A. (2024). *Option pricing in the Heston model with physics inspired neural networks*. Annals of Finance. 
 > [https://doi.org/10.1007/s10436-024-00452-7](https://doi.org/10.1007/s10436-024-00452-7)
+> Publicly accessible via [https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A284660/datastream/PDF_01/view](https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A284660/datastream/PDF_01/view)
