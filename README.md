@@ -10,8 +10,7 @@ Project under the supervision of Prof. Lu Lu, Yale University.
 
 ## Project Goal
 
-We aim to build fast, differentiable surrogates for European option prices under Heston stochastic-
-volatility models using PINNs. The goal is to train a model that is able to accurately and instantaneously price options, compute Greeks via AutoDiff, and efficiently calibrate to real time market data.
+We aim to build fast, differentiable surrogates for European option prices under Heston stochastic-volatility models using PINNs. The goal is to train a model that is able to accurately and instantaneously price options, compute Greeks via AutoDiff, and efficiently calibrate to real time market data.
 
 ## Key Reference Paper
 
